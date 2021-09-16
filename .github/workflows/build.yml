@@ -2,7 +2,7 @@ name: Build
 'on':
   push:
     branches:
-      - main
+      - Akash-new-project-
   pull_request:
     types:
       - opened
